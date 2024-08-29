@@ -16,8 +16,8 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/maheshmaniya000/hiking-adventure.git
-cd hiking-adventure-website
+git clone https://github.com/kishangareja0012/g-forms.git
+cd g-forms
 ```
 
 ### Install Dependencies
